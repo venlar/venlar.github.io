@@ -31,3 +31,7 @@ This is a link to the repository of one of the weekly assignments.
 ## Misc. 
 
 [My favorite website, Goodreads](https://www.goodreads.com/) 
+
+## My CV
+
+[Link to my CV](https://www.overleaf.com/read/gsttchqfmqxm)
